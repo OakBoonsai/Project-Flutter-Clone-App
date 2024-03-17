@@ -1,2 +1,6 @@
 https://youtu.be/XBKzpTz65Io
 https://stackoverflow.com/questions/73718539/how-to-make-top-navigation-bar-in-flutter
+
+Packages
+cupertino_icons: ^1.0.5
+flutter_svg: ^2.0.7
